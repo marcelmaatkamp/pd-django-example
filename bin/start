@@ -1,0 +1,5 @@
+#!/bin/bash
+docker-compose \
+ -f docker-compose.yml \
+ -f pdt-openxpki/docker-compose.yml \
+ -f pdt-django-web/docker-compose.yml

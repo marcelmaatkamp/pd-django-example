@@ -1,0 +1,6 @@
+[submodule "pdt-django-web"]
+	path = pdt-django-web
+	url = https://github.com/marcelmaatkamp/pdt-django-web.git
+[submodule "pdt-openxpki"]
+	path = pdt-openxpki
+	url = https://github.com/marcelmaatkamp/pdt-openxpki.git
