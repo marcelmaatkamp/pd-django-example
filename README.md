@@ -18,12 +18,12 @@ Wildcard dns
 Letsencrypt ssl and wildcard dns mapping for internal and external facing containers
  
 ## graylog 
-![Graylog](https://s24255.pcdn.co/wp-content/uploads/2017/06/graylog.png | width=100)
+<img src="https://s24255.pcdn.co/wp-content/uploads/2017/06/graylog.png" width="200">
 
 Logging
 
 ## sentry
-![Sentry](https://raw.githubusercontent.com/docker-library/docs/7d1c6fff37893bcefc186de7b978f5bdb2f801f6/sentry/logo.png | width=100)
+<img src="https://raw.githubusercontent.com/docker-library/docs/7d1c6fff37893bcefc186de7b978f5bdb2f801f6/sentry/logo.png" width="200">
 
 Error tracking
 
