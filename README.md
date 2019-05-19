@@ -1,4 +1,4 @@
-# django example
+# Practical docker tips: a django example
 Simple webserver to demonstrate how to install, secure, monitor, log and visualise data from a django webserver.
 
 # dependencies
