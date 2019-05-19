@@ -13,3 +13,6 @@
 [submodule "pdt-graylog"]
 	path = pdt-graylog
 	url = https://github.com/marcelmaatkamp/pdt-graylog.git
+[submodule "pdt-sentry"]
+	path = pdt-sentry
+	url = https://github.com/marcelmaatkamp/pdt-sentry.git
