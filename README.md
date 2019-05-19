@@ -9,22 +9,23 @@ Simple webserver to demonstrate how to install, secure, monitor, log and visuali
 These are the dependencies of this project 
 
 ## openxpki
+<img src="https://www199.lunapic.com/do-not-link-here-use-hosting-instead/155826496819491711?3881617798" width="400">
 pki
 
 ## dns
 Wildcard dns
 
 ## traefik
-<img src="https://cdn-images-1.medium.com/max/1200/1*0Gu7W6KCr373QH4be5ShWQ.png" width="200">
+<img src="https://cdn-images-1.medium.com/max/1200/1*0Gu7W6KCr373QH4be5ShWQ.png" width="400">
 Letsencrypt ssl and wildcard dns mapping for internal and external facing containers
  
 ## graylog 
-<img src="https://s24255.pcdn.co/wp-content/uploads/2017/06/graylog.png" width="200">
+<img src="https://s24255.pcdn.co/wp-content/uploads/2017/06/graylog.png" width="400">
 
 Logging
 
 ## sentry
-<img src="https://raw.githubusercontent.com/docker-library/docs/7d1c6fff37893bcefc186de7b978f5bdb2f801f6/sentry/logo.png" width="200">
+<img src="https://raw.githubusercontent.com/docker-library/docs/7d1c6fff37893bcefc186de7b978f5bdb2f801f6/sentry/logo.png" width="400">
 
 Error tracking
 
