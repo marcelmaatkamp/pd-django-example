@@ -15,6 +15,7 @@ pki
 Wildcard dns
 
 ## traefik
+<img src="https://cdn-images-1.medium.com/max/1200/1*0Gu7W6KCr373QH4be5ShWQ.png" width="200">
 Letsencrypt ssl and wildcard dns mapping for internal and external facing containers
  
 ## graylog 
