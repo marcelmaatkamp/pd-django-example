@@ -13,6 +13,7 @@ These are the dependencies of this project
 pki
 
 ## dns
+<img src="https://aidanfinn.com/wp-content/uploads/2017/12/Azure-DNS.png" width="400">
 Wildcard dns
 
 ## traefik
