@@ -21,6 +21,7 @@ Letsencrypt ssl and wildcard dns mapping for internal and external facing contai
 logging
 
 ## sentry
+![Sentry](https://raw.githubusercontent.com/docker-library/docs/7d1c6fff37893bcefc186de7b978f5bdb2f801f6/sentry/logo.png)
 Error tracking
 
 
