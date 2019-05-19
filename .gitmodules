@@ -4,3 +4,12 @@
 [submodule "pdt-openxpki"]
 	path = pdt-openxpki
 	url = https://github.com/marcelmaatkamp/pdt-openxpki.git
+[submodule "pdt-traefik"]
+	path = pdt-traefik
+	url = https://github.com/marcelmaatkamp/pdt-traefik.git
+[submodule "pdt-dns"]
+	path = pdt-dns
+	url = https://github.com/marcelmaatkamp/pdt-dns.git
+[submodule "pdt-graylog"]
+	path = pdt-graylog
+	url = https://github.com/marcelmaatkamp/pdt-graylog.git
