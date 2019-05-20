@@ -8,6 +8,8 @@ This project will be one of the main example applications, a Django application 
 
 https://www.djangoproject.com/
 
+*Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.*
+
 This will be the core software program in this example, a simple web applicaton in django to demonstrate how to secure, monitor, log and visualise data in this application. 
 
 # dependencies
@@ -57,7 +59,6 @@ https://sentry.io/
 
 *<em>Your code is bad, but that’s fine</em>
 Sentry is open-source error tracking that provides visibility across your entire stack, giving you the details you need to fix your bugs. Even the most bumbling, typo-prone developer can use our service to resolve problems, well before your users encounter them.*
-
 
 Error tracking
 
