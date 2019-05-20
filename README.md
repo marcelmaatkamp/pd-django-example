@@ -9,7 +9,7 @@ Simple webserver to demonstrate how to install, secure, monitor, log and visuali
 These are the dependencies of this project 
 
 ## openxpki
-<img src="https://www199.lunapic.com/do-not-link-here-use-hosting-instead/155826496819491711?3881617798" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/OpenXPKI_logo.png" width="400">
 pki
 
 ## dns
