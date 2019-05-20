@@ -37,7 +37,7 @@ Each public facing container will get a unique hostname and together with Traefi
 
 ## Watchtower
 
-<a href="https://containrrr.github.io/watchtower/"><img src="https://camo.githubusercontent.com/7edd4ae7ae04b30fd707f9f9713e9778040b39ad/68747470733a2f2f30783132622e636f6d2f7761746368746f7765722d6c6f676f2e706e6"  width="400"></a>
+<a href="https://0x12b.com/watchtower-logo.png"  width="400"></a>
 
 https://containrrr.github.io/watchtower/
 
