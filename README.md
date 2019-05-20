@@ -4,7 +4,7 @@
 This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik,
 
 # django example
-<a href="https://www.djangoproject.com/"><img src="http://big.info/wp-content/uploads/2016/07/django.png" width="400></a>
+<a href="https://www.djangoproject.com/"><img src="http://big.info/wp-content/uploads/2016/07/django.png" width="400"></a>
 
 https://www.djangoproject.com/
 
