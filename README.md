@@ -29,6 +29,7 @@ https://www.keycloak.org/
 
 *Keycloak is an open source Identity and Access Management solution aimed at modern applications and services. It makes it easy to secure applications and services with little to no code.*
 
+Federated login for our applications
 
 ## dns
 <img src="https://aidanfinn.com/wp-content/uploads/2017/12/Azure-DNS.png" width="400">
@@ -47,7 +48,11 @@ Each public facing container will get a unique hostname and together with Traefi
 
 <a href="https://github.com/pyouroboros/ouroboros"  width="400"><img src="https://res.cloudinary.com/teepublic/image/private/s--MkVDG5Bs--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1546054510/production/designs/3842483_0.jpg" width="400" /></a>
 
+https://github.com/pyouroboros/ouroboros
+
 *Ouroboros will monitor (all or specified) running docker containers and update them to the (latest or tagged) available image in the remote registry. The updated container uses the same tag and parameters that were used when the container was first created such as volume/bind mounts, docker network connections, environment variables, restart policies, entrypoints, commands, etc.*
+
+Automatic update of our containers
 
 ## graylog 
 <a href="https://www.graylog.org/products/open-source"><img src="https://s24255.pcdn.co/wp-content/uploads/2017/06/graylog.png" width="400"></a>
@@ -57,6 +62,15 @@ https://www.graylog.org/products/open-source
 *Graylog is purpose-built and designed to deliver the best log collection, storage, enrichment, and analysis experience.The simplicity in searching, exploring, and visualizing data means no expensive training or tool experts are required. Graylog has considerably faster analysis speeds, provides a more robust and easier-to-use analysis platform,*
 
 Logging container
+
+## logspout
+<a href=""><img src="" /></a>
+
+https://github.com/gliderlabs/logspout
+
+*Logspout is a log router for Docker containers that runs inside Docker. It attaches to all containers on a host, then routes their logs wherever you want. It also has an extensible module system. t's a mostly stateless log appliance. It's not meant for managing log files or looking at history. It is just a means to get your logs out to live somewhere else, where they belong.*
+
+Automatic logging to graylog for all running containers without any extra configuration
 
 ## sentry
 <img src="https://raw.githubusercontent.com/docker-library/docs/7d1c6fff37893bcefc186de7b978f5bdb2f801f6/sentry/logo.png" width="400">
