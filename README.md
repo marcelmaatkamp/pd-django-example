@@ -43,13 +43,11 @@ https://docs.traefik.io/
 
 Each public facing container will get a unique hostname and together with Traefik and LetsEncrypt also a unique SSL certificate.
 
-## Watchtower
+## ouroboros
 
-<a href="https://0x12b.com/watchtower-logo.png"  width="400"></a>
+<a href="https://github.com/pyouroboros/ouroboros"  width="400"><img src="https://res.cloudinary.com/teepublic/image/private/s--MkVDG5Bs--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1546054510/production/designs/3842483_0.jpg" width="400" /></a>
 
-https://containrrr.github.io/watchtower/
-
-*Watchtower is an application that will monitor your running Docker containers and watch for changes to the images that those containers were originally started from. If watchtower detects that an image has changed, it will automatically restart the container using the new image.*
+*Ouroboros will monitor (all or specified) running docker containers and update them to the (latest or tagged) available image in the remote registry. The updated container uses the same tag and parameters that were used when the container was first created such as volume/bind mounts, docker network connections, environment variables, restart policies, entrypoints, commands, etc.*
 
 ## graylog 
 <a href="https://www.graylog.org/products/open-source"><img src="https://s24255.pcdn.co/wp-content/uploads/2017/06/graylog.png" width="400"></a>
