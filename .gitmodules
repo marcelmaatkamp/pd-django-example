@@ -16,3 +16,6 @@
 [submodule "pdt-sentry"]
 	path = pdt-sentry
 	url = https://github.com/marcelmaatkamp/pdt-sentry.git
+[submodule "pdt-ouroboros"]
+	path = pdt-ouroboros
+	url = https://github.com/marcelmaatkamp/pdt-ouroboros.git
