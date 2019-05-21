@@ -64,7 +64,7 @@ https://www.graylog.org/products/open-source
 Logging container
 
 ## logspout
-<a href=""><img src="" /></a>
+<a href="https://github.com/gliderlabs/logspout"><img src="https://avatars0.githubusercontent.com/u/8484931?s=400&v=4" /></a>
 
 https://github.com/gliderlabs/logspout
 
