@@ -23,7 +23,12 @@ https://www.openxpki.org/
 *OpenXPKI is an enterprise-grade PKI/Trustcenter software. It implements the necessary features to operate a PKI in professional environments. While primarily designed to run as an online RA/CA for managing X509v3 certificates, its flexibility allow for a wide range of possible use cases with regard to cryptographic key management.*
 
 ## keycloak 
-<a href=""><img src="https://auth.sherpafundstech.com/auth/welcome-content/keycloak_logo.png" /></a>
+<a href="https://www.keycloak.org/"><img src="https://github.com/keycloak/keycloak-misc/blob/master/logo/keycloak_logo_450px.png?raw=true" width="400" /></a>
+
+https://www.keycloak.org/
+
+*Keycloak is an open source Identity and Access Management solution aimed at modern applications and services. It makes it easy to secure applications and services with little to no code.*
+
 
 ## dns
 <img src="https://aidanfinn.com/wp-content/uploads/2017/12/Azure-DNS.png" width="400">
