@@ -1,7 +1,9 @@
 # Practical docker tips
 *Software does not live alone it is always a complex orchestration to get all the individual parts talk together. Luckily we have docker nowadays and in these talks I give examples on how to implement and secure a software stack with components like logging, monitoring, security, fault detection and more. See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.*
 
-This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik,
+This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik
+
+The rationale of why and how I made this framework is further explained in the https://github.com/marcelmaatkamp/pdt-django-example/wiki
 
 # django example
 <a href="https://www.djangoproject.com/"><img src="http://big.info/wp-content/uploads/2016/07/django.png" width="400"></a>
