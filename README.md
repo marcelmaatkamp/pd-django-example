@@ -3,6 +3,8 @@
 
 This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik
 
+There will be a java and nodejs compagnion app in the future.
+
 The rationale of why and how I made this framework is further explained in the https://github.com/marcelmaatkamp/pdt-django-example/wiki
 
 # django example
