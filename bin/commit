@@ -1,0 +1,10 @@
+#!/bin/bash
+for i in $(find . -name 'pdt-*' -type d -maxdepth 1) 
+do 
+ cd $i 
+ git add .
+ git commit -m "new files"
+ git pull 
+ git push
+ cd ..
+done
