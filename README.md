@@ -16,9 +16,15 @@ $ git clone https://github.com/marcelmaatkamp/pdt-django-example.git &&\
 
 # Servers
 
-| - | - |
+| Name  |  URL |
+| - | -- |
 | socks5 proxy | localhost:1080 | 
-| openxpki | http://openxpki-client/openxpki/#/openxpki/login |
+
+Now all the containers are resolvable via their internal container name
+
+| Name  |  URL |
+| - | -- |
+| openxpki | http://openxpki-client/openxpki |
 
 # django example
 <a href="https://www.djangoproject.com/"><img src="http://big.info/wp-content/uploads/2016/07/django.png" width="400"></a>
