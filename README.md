@@ -1,10 +1,3 @@
-# Practical docker tips
-*Software does not live alone it is always a complex orchestration to get all the individual parts talk together. Luckily we have docker nowadays and in these talks I give examples on how to implement and secure a software stack with components like logging, monitoring, security, fault detection and more. See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.*
-
-This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik. There will be a java and nodejs compagnion app in the future.
-
-The rationale of why and how I made this framework is further explained in the https://github.com/marcelmaatkamp/pdt-django-example/wiki
-
 # TL;DR
 If `docker` and `docker-compose` are installed:
 ```
@@ -27,6 +20,13 @@ Now all the containers are resolvable via their internal container name:
 | graylog | http://graylog |
 | sentry | http://sentry |
 | openxpki | http://openxpki-client/openxpki |
+
+# Practical docker tips
+*Software does not live alone it is always a complex orchestration to get all the individual parts talk together. Luckily we have docker nowadays and in these talks I give examples on how to implement and secure a software stack with components like logging, monitoring, security, fault detection and more. See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.*
+
+This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik. There will be a java and nodejs compagnion app in the future.
+
+The rationale of why and how I made this framework is further explained in the https://github.com/marcelmaatkamp/pdt-django-example/wiki
 
 # django example
 <a href="https://www.djangoproject.com/"><img src="http://big.info/wp-content/uploads/2016/07/django.png" width="400"></a>
@@ -116,5 +116,4 @@ Error tracking
 # About
 In these talks I will give practical tips and tricks on how to effectively use Docker as a valuable tool to solve various problems or just use it for fun projects with all kinds of hardware and software! See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.
 * [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ)
-
 
