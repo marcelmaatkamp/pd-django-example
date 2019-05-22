@@ -7,6 +7,19 @@ There will be a java and nodejs compagnion app in the future.
 
 The rationale of why and how I made this framework is further explained in the https://github.com/marcelmaatkamp/pdt-django-example/wiki
 
+# Usage
+```
+$ git clone https://github.com/marcelmaatkamp/pdt-django-example.git &&\
+  cd pdt-django-example &&\
+  ./bin/dc up -d
+```
+
+# Servers
+
+| - | - |
+| socks5 proxy | localhost:1080 | 
+| openxpki | http://openxpki-client/openxpki/#/openxpki/login |
+
 # django example
 <a href="https://www.djangoproject.com/"><img src="http://big.info/wp-content/uploads/2016/07/django.png" width="400"></a>
 
