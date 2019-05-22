@@ -22,3 +22,6 @@
 [submodule "pdt-keycloak"]
 	path = pdt-keycloak
 	url = https://github.com/marcelmaatkamp/pdt-keycloak
+[submodule "pdt-proxy"]
+	path = pdt-proxy
+	url = https://github.com/marcelmaatkamp/pdt-proxy.git
