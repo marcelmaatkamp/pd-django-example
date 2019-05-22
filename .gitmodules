@@ -19,3 +19,6 @@
 [submodule "pdt-ouroboros"]
 	path = pdt-ouroboros
 	url = https://github.com/marcelmaatkamp/pdt-ouroboros.git
+[submodule "pdt-keycloak"]
+	path = pdt-keycloak
+	url = https://github.com/marcelmaatkamp/pdt-keycloak
