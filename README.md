@@ -19,6 +19,7 @@ Now all the containers are resolvable via their internal container name:
 | keycloak | http://keycloak |
 | graylog | http://graylog |
 | sentry | http://sentry |
+| traefik | http://traefik |
 | openxpki | http://openxpki-client/openxpki |
 
 # Practical docker tips
