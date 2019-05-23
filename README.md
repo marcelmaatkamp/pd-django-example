@@ -13,14 +13,14 @@ Install a socks5 proxy switcher app in your browser like https://github.com/Feli
 
 Now all the containers are resolvable via their internal container name:
 
-| Name  |  URL |
-| - | -- |
-| django | http://django |
-| keycloak | http://keycloak |
-| graylog | http://graylog |
-| sentry | http://sentry |
-| traefik | http://traefik |
-| openxpki | http://openxpki-client/openxpki |
+| Name  |  URL | Username | Password
+| - | - | - | - |
+| django | http://django | | |
+| keycloak | http://keycloak | | |
+| graylog | http://graylog | | |
+| sentry | http://sentry | | |
+| traefik | http://traefik | |
+| openxpki | http://openxpki-client/openxpki | raop | openxpki|
 
 # Practical docker tips
 *Software does not live alone it is always a complex orchestration to get all the individual parts talk together. Luckily we have docker nowadays and in these talks I give examples on how to implement and secure a software stack with components like logging, monitoring, security, fault detection and more. See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.*
