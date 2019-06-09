@@ -15,6 +15,7 @@ Now all the containers are resolvable via their internal container name:
 
 | Name  |  URL | Username | Password
 | - | - | - | - |
+| adminer | http://adminer:8080 | | | 
 | django | http://django | | |
 | keycloak | http://keycloak | | |
 | graylog | http://graylog | | |
@@ -42,8 +43,9 @@ This will be the core software program in this example, a simple web applicaton 
 These are the dependencies of this project 
 
 ## adminer
+<a href="http://www.adminer.org"><img src="https://www.adminer.org/static/images/logo.png" width="400" /></a>
 
-http://adminer:8080
+Adminer (formerly phpMinAdmin) is a full-featured database management tool written in PHP. Conversely to phpMyAdmin, it consist of a single file ready to deploy to the target server. Adminer is available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Firebird, SimpleDB, Elasticsearch and MongoDB.
 
 ## openxpki
 <a href="https://www.openxpki.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/OpenXPKI_logo.png" width="400"></a>
