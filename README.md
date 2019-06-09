@@ -19,6 +19,10 @@ This will be the core software program in this example, a simple web applicaton 
 # dependencies
 These are the dependencies of this project 
 
+## adminer
+
+http://adminer:8080
+
 ## openxpki
 <a href="https://www.openxpki.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/OpenXPKI_logo.png" width="400"></a>
 

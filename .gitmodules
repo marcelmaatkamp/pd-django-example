@@ -25,3 +25,6 @@
 [submodule "pdt-proxy"]
 	path = pdt-proxy
 	url = https://github.com/marcelmaatkamp/pdt-proxy.git
+[submodule "pdt-adminer"]
+	path = pdt-adminer
+	url = https://github.com/marcelmaatkamp/pdt-adminer.git
