@@ -31,3 +31,6 @@
 [submodule "pdt-guacamole"]
 	path = pdt-guacamole
 	url = https://github.com/marcelmaatkamp/pdt-guacamole.git
+[submodule "pdt-desktop-kali"]
+	path = pdt-desktop-kali
+	url = https://github.com/marcelmaatkamp/pdt-desktop-kali.git
