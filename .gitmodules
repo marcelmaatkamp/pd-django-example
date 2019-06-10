@@ -28,3 +28,6 @@
 [submodule "pdt-adminer"]
 	path = pdt-adminer
 	url = https://github.com/marcelmaatkamp/pdt-adminer.git
+[submodule "pdt-guacamole"]
+	path = pdt-guacamole
+	url = https://github.com/marcelmaatkamp/pdt-guacamole.git

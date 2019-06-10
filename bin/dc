@@ -1,2 +1,4 @@
 #!/bin/bash
-docker-compose $(for i in $(find . -name 'pdt-*' -type d -maxdepth 1); do echo -n "-f ${i}/docker-compose.yml "; done) $*
+docker-compose \
+ -f docker-compose.yml \
+ $(for i in $(find . -name 'pdt-*' -type d -maxdepth 1); do echo -n "-f ${i}/docker-compose.yml "; done) $*
