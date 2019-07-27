@@ -1,4 +1,4 @@
-# TL;DR
+# TL;DR or 'How-to-quickly-install'
 If `docker` and `docker-compose` are installed:
 ```
 $ git clone https://github.com/marcelmaatkamp/pdt-django-example.git &&\
