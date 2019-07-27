@@ -120,9 +120,18 @@ Sentry is open-source error tracking that provides visibility across your entire
 
 ## Apache Guacamole
 <img src="https://arcisphere.com/wp-content/uploads/2016/06/guac-logo.png" width="400">
+
 https://guacamole.apache.org/
 
 *Apache Guacamole is referred to as a clientless remote desktop gateway because no plugins or client software are required run it. Once you install Guacamole on a server, HTML5 allows you access your desktop from a web browser. Guacamole supports standard protocols like VNC, RDP, and SSH.*
+
+## Kali
+<img src="https://www.kali.org/wp-content/uploads/2015/09/kali-2.0-website-logo.png" width="400">
+
+https://www.kali.org/
+
+*Kali Linux is a Debian-based Linux distribution aimed at advanced Penetration Testing and Security Auditing. Kali contains several hundred tools which are geared towards various information security tasks, such as Penetration Testing, Security research, Computer Forensics and Reverse Engineering. Kali Linux is developed, funded and maintained by Offensive Security, a leading information security training company.*
+
 
 # About
 In these talks I will give practical tips and tricks on how to effectively use Docker as a valuable tool to solve various problems or just use it for fun projects with all kinds of hardware and software! See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.
