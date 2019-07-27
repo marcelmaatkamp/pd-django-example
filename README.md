@@ -118,7 +118,11 @@ https://sentry.io/
 *<em>Your code is bad, but that’s fine</em>
 Sentry is open-source error tracking that provides visibility across your entire stack, giving you the details you need to fix your bugs. Even the most bumbling, typo-prone developer can use our service to resolve problems, well before your users encounter them.*
 
-Error tracking
+## Apache Guacamole
+<img src="https://arcisphere.com/wp-content/uploads/2016/06/guac-logo.png" width="400">
+https://guacamole.apache.org/
+
+*Apache Guacamole is referred to as a clientless remote desktop gateway because no plugins or client software are required run it. Once you install Guacamole on a server, HTML5 allows you access your desktop from a web browser. Guacamole supports standard protocols like VNC, RDP, and SSH.*
 
 # About
 In these talks I will give practical tips and tricks on how to effectively use Docker as a valuable tool to solve various problems or just use it for fun projects with all kinds of hardware and software! See my [YouTube Channel with all episodes](https://www.youtube.com/channel/UCxp65f-xyu4z1PvmZBKqZGQ) for more information.
