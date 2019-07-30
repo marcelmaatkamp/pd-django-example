@@ -1,7 +1,7 @@
 # TL;DR or 'How-to-quickly-install'
 If `docker` and `docker-compose` are installed:
 ```
-$ git clone https://github.com/marcelmaatkamp/pdt-django-example.git &&\
+$ git clone https://github.com/marcelmaatkamp/pdt-django-example.git --recurse-submodules -j8 &&\
   cd pdt-django-example &&\
   ./bin/dc up -d
 ```
