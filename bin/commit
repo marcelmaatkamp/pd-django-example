@@ -4,7 +4,8 @@ do
  cd $i 
  git add .
  git commit -m "new files"
- git pull 
- git push
+ git pull origin master
+ git push origin HEAD:master --force
+ # git push
  cd ..
 done
