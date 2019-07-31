@@ -29,7 +29,7 @@ Now all the containers are resolvable via their internal container name:
 | adminer | http://adminer:8080 | | | 
 | django | http://django | | |
 | keycloak | http://keycloak | | |
-| graylog | http://graylog | | |
+| graylog | http://graylog:9000 | admin | admin |
 | sentry | http://sentry | | |
 | traefik | http://traefik | |
 | openxpki | http://openxpki-client/openxpki | raop | openxpki|
