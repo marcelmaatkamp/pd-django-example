@@ -1,4 +1,7 @@
 # Description
+
+https://marcelmaatkamp.github.io/pdt-django-example/
+
 This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik. There will be a java and nodejs compagnion app in the future.
 
 # TL;DR or 'How-to-quickly-install'
