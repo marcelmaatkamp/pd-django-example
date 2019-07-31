@@ -1,16 +1,27 @@
+# Description
+This project will be one of the main example applications, a Django application which will log to graylog, is secured by openxpki and traefik. There will be a java and nodejs compagnion app in the future.
+
 # TL;DR or 'How-to-quickly-install'
+
+## start application
 If `docker` and `docker-compose` are installed:
 ```
 $ git clone https://github.com/marcelmaatkamp/pdt-django-example.git --recurse-submodules -j8 &&\
   cd pdt-django-example &&\
   ./bin/dc up -d
 ```
+
+## setup proxy
 Install a socks5 proxy switcher app in your browser like https://github.com/FelisCatus/SwitchyOmega and use the following path to enable the internal socks5 proxy for this project
 
 | Name  |  URL |
 | - | -- |
 | socks5 proxy | localhost:1080 | 
 
+Setup proxy with thee settings:
+![](images/SwitchyOmegaSettings.png)
+
+## project
 Now all the containers are resolvable via their internal container name:
 
 | Name  |  URL | Username | Password
