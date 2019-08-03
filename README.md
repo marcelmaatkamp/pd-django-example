@@ -1,11 +1,4 @@
-```                   _   _         _ 
-  _ __ _ _ __ _ __| |_(_)__ __ _| |
- | '_ \ '_/ _` / _|  _| / _/ _` | |
- | .__/_| \__,_\__|\__|_\__\__,_|_|
- |_| __| |___  __| |_____ _ _      
-    / _` / _ \/ _| / / -_) '_|     
-    \__,_\___/\__|_\_\___|_|
-```
+![](https://github.com/marcelmaatkamp/practical-docker/raw/master/images/practical-docker-twolines-neon-drop.png)
                                    
 # Description
 
